@@ -2,6 +2,8 @@
 
 ## A lightweight Windows app for practicing Hiragana and Katakana, with a simple quiz mode and a built-in scoreboard.
 
+<img width="436" height="497" alt="Totsuku Menu" src="https://github.com/user-attachments/assets/96a6ec62-9601-4dee-b700-f1bed5a8c0c1" />
+
 🎌 **About the App**
 
 ✔ Hiragana test mode
